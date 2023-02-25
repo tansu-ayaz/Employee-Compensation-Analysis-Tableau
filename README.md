@@ -58,6 +58,10 @@ I created many kind of charts using the necessary columns and then transferred t
 ![image] <img src = "https://github.com/tansu-ayaz/Employee-Compensation-Analysis/blob/main/second.jpg" />
 
 
+![image] <img src = "https://github.com/tansu-ayaz/Employee-Compensation-Analysis/blob/main/third.jpg" />
+
+
+
 
 
 
