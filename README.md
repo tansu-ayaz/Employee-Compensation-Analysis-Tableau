@@ -49,6 +49,9 @@ I created many kind of charts using the necessary columns and then transferred t
 "https://www.totalrsolutions.com/wp-content/uploads/2016/01/Compensation-Dollarphotoclub_90295153-RS-72.jpg" width="350" height="auto" />
 
 
+![image] <img src = "https://github.com/tansu-ayaz/Employee-Compensation-Analysis/blob/main/First.jpg" />
+
+
 ![image] <img src = "https://github.com/Tansuuuu/Employee-Compensation-Analysis/blob/main/Employee%20Compensation.jpg" />
 
 
