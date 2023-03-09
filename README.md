@@ -28,7 +28,9 @@ Utilizing Tableau to display and analyze the San Francisco Controller's Office m
 
 The main product of this report is the Tableau dashboard. This is an interactive dashboard that contains data focusing on employee salaries, benefits, overtime, and total compensation.
 
-Dashboard link: https://public.tableau.com/app/profile/tansu.ayaz/viz/EmployeeCompensationDashboard_16734660914110/Story1?publish=yes
+
+ <a href="https://public.tableau.com/app/profile/tansu.ayaz/viz/EmployeeCompensationDashboard_16734660914110/Story1?publish=yes">Go to my Dashboard link</a>
+
 
 The dashboard features:
 
